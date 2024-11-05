@@ -1,0 +1,236 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": " In the story “The Magic Apple Tree,” who is the main character? ",
+    "options": [
+      "Jimmy",
+      "Claire",
+      "Ella",
+      " John"
+    ],
+    "correct": 2,
+    "explanation": "The story itself introduces the character of a girl named “Ella” who used to live in a small village. "
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What is the start of a story called?",
+    "options": [
+      "The middle",
+      "The beginning",
+      "The conclusion",
+      "The end"
+    ],
+    "correct": 1,
+    "explanation": "The start of a story is called the beginning. This is where we meet the main characters and learn about the setting of the story."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What does a story need to have?",
+    "options": [
+      "Only happy endings",
+      "A beginning, middle, and end",
+      "Always a princess",
+      "Only talking animals"
+    ],
+    "correct": 1,
+    "explanation": "Every good story has three main parts: a beginning (where the story starts), a middle (where things happen), and an end (where the story finishes)."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "In Ella's story, what did she find in the forest?",
+    "options": [
+      "A golden apple tree",
+      "A magic wand",
+      "A talking bird",
+      "A treasure chest"
+    ],
+    "correct": 0,
+    "explanation": "In the story, Ella finds a special tree with golden apples while walking in the forest."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What makes a story interesting?",
+    "options": [
+      "Using big words",
+      "Making it very long",
+      "Adding exciting events"
+    ],
+    "correct": 2,
+    "explanation": "Stories become interesting when exciting things happen. These events keep readers curious and eager to know what happens next."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Looking at this image, what could be the story about?<br><img src='./1.png' width='150px'/>",
+    "options": [
+      "A princess and a dog",
+      "A king and a bear",
+      "A prince and a parrot"
+    ],
+    "correct": 2,
+    "explanation": "By looking at this picture, we can say that the story is about a princess and a bird (parrot). In stories, characters are very important, as they guide us through the story."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Looking at this image, what could be the setting of the story?<br><img src='./2.png' width='150px'/>",
+    "options": [
+      "Mountain",
+      "Forest",
+      "Beach"
+    ],
+    "correct": 1,
+    "explanation": "By looking at this picture, we can say that the setting of the story is in the forest. The setting of a story is where and when the story happens. It tells us the place, time, and how long the story takes."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Looking at this image, what could be the story about?<br><img src='./3.png' width='180px'/>",
+    "options": [
+      "Tommy’s adventure in school",
+      "Tommy’s life in the sea",
+      "Tommy’s life on a mountain"
+    ],
+    "correct": 2,
+    "explanation": "By looking at this picture, we can say that the story is about a boy on a mountain. The character is a boy, and the setting of the story is mountains."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "What did the golden apple tree tell Ella?",
+    "options": [
+      "To climb the tree",
+      "To take all the apples",
+      "To make a wish with one apple",
+      "To water the tree"
+    ],
+    "correct": 2,
+    "explanation": "In the story, the tree told Ella that if she picked just one apple and made a wish, her wish would come true."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What is the place where a story happens called?",
+    "options": [
+      "The setting",
+      "The timing",
+      "The character"
+    ],
+    "correct": 0,
+    "explanation": "The place where a story happens is called the setting. It could be a real place like a school or an imaginary place like a magical forest."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "What did Ella wish for?",
+    "options": [
+      "Lots of toys",
+      "A new dress",
+      "Happiness for her village",
+      "To be a princess"
+    ],
+    "correct": 2,
+    "explanation": "After thinking carefully, Ella wished for happiness for her entire village, showing her kindness and care for others."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "What happened after Ella made her wish?",
+    "options": [
+      "Nothing changed",
+      "The tree disappeared",
+      "It started to rain",
+      "A warm light spread across the village"
+    ],
+    "correct": 3,
+    "explanation": "After Ella made her wish, the golden apple sparkled and a warm light spread across the village, showing that her wish was coming true."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "How did the village change after Ella's wish?",
+    "options": [
+      "It became very noisy",
+      "Everyone left the village",
+      "People became happier",
+      "The village disappeared"
+    ],
+    "correct": 2,
+    "explanation": "After Ella's wish, the village became a cheerful place. People smiled, felt joyful, and helped each other more."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Who could see the golden apple tree in the forest?",
+    "options": [
+      "Everyone who entered the forest",
+      "Only Ella",
+      "Those with kind hearts",
+      "Animals in the forest"
+    ],
+    "correct": 2,
+    "explanation": "The story tells us that only people with kind hearts can see the golden apple tree in the forest."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "What did Ella learn at the end of the story?",
+    "options": [
+      "Magic isn't real",
+      "Kindness and love are the best gifts",
+      "She should keep all the apples",
+      "The forest is dangerous"
+    ],
+    "correct": 1,
+    "explanation": "Ella learned that kindness and love were the most magical gifts of all, showing the importance of caring for others."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "What is the problem in a story often called?",
+    "options": [
+      "The solution",
+      "The conflict",
+      "The ending",
+      "The setting"
+    ],
+    "correct": 1,
+    "explanation": "The main problem or challenge in a story is often called the conflict. It's what the characters need to solve or overcome."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "What does a story's title do?",
+    "options": [
+      "Ends the story",
+      "Describes the middle",
+      "Lists all the characters",
+      "Gives a name to the story"
+    ],
+    "correct": 3,
+    "explanation": "A story's title gives a name to the story. It often gives a hint about what the story is about or who it's about."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "What is it called when a story teaches a lesson?",
+    "options": [
+      "A joke",
+      "A moral",
+      "A riddle",
+      "A song"
+    ],
+    "correct": 1,
+    "explanation": "When a story teaches a lesson, it's called a moral. Many stories have morals to help readers learn something important."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "In Ella's story, what kind of tree had golden apples?",
+    "options": [
+      "An oak tree",
+      "A pine tree",
+      "A special magic tree",
+      "An orange tree"
+    ],
+    "correct": 2,
+    "explanation": "In the story, Ella found a special magic tree that had golden apples, not a regular apple tree."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What do we call the people or animals in a story?",
+    "options": [
+      "Place",
+      "Settings",
+      "Characters"
+    ],
+    "correct": 2,
+    "explanation": "The people or animals in a story are called characters. They are the ones who the story is about and who do things in the story."
+  }
+]
